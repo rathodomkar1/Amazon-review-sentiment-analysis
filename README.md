@@ -41,7 +41,7 @@ The project helped me understand the complete workflow of a text classification 
 
 ### Positive Reviews
 
-![Positive Word Cloud](positive.png)
+![Positive Word Cloud](postive.png)
 
 ### Negative Reviews
 
