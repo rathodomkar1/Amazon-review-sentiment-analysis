@@ -37,6 +37,19 @@ The project helped me understand the complete workflow of a text classification 
 
 - Model: Logistic Regression
 - Accuracy: **88%**
+- ## Word Clouds
+
+### Positive Reviews
+
+![Positive Word Cloud](positive.png)
+
+### Negative Reviews
+
+![Negative Word Cloud](negative.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](Confusion_matrix.png)
 
 ## What I Learned
 
